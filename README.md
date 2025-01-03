@@ -24,12 +24,9 @@ React Router: For seamless navigation.
 Shaik Ahmad
 
 #Social Media
-[GitHub](https://github.com/ahmedshai)
-[LinkedIn](www.linkedin.com/in/shaikahmad)
+**Email** : Shaikahmad.2@outlook.com
+[LinkedIn](https://www.linkedin.com/in/shaikahmad/)
 [Instagram](https://www.instagram.com/ahmed.online/profilecard/?igsh=MTZoOW5yOGFjc2Jzdw==)
-
-#📜 License
-This project is licensed under the MIT License. Feel free to use and modify it.
 
 #📫 Contact
 For inquiries or feedback, reach out via Email.
